@@ -117,6 +117,10 @@
         {
           "label": "rainmaker-ws",
           "value": "rainmaker-ws"
+        },
+        {
+          "label": "rainmaker-wt",
+          "value": "rainmaker-wt"
         }
       ]
     }
