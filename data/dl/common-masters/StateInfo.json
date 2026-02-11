@@ -113,6 +113,10 @@
         {
           "label": "rainmaker-finance2",
           "value": "rainmaker-finance2"
+        },
+        {
+          "label": "rainmaker-ws",
+          "value": "rainmaker-ws"
         }
       ]
     }
