@@ -306,6 +306,11 @@
       "code": "WT_DRIVER",
       "name": "Water Tanker Driver role",
       "description": "Water Tanker Driver"
+    },
+    {
+      "code": "PT_CEMP",
+      "name": "Property Service Employee",
+      "description": "Property Service Employee"
     }
   ]
 }

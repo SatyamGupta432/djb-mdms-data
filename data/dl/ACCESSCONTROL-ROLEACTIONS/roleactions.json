@@ -31345,6 +31345,12 @@
       "actionid": 2937,
       "actioncode": "",
       "tenantId": "dl"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 2000,
+      "actioncode": "",
+      "tenantId": "dl"
     }
   ]
 }
