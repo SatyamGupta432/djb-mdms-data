@@ -1,30 +1,35 @@
 {
-  "tenantId": "dl",
+  "tenantId": "dl.djb",
   "moduleName": "ws-services-calculation",
   "floorCount": [
     {
-      "name": "1",
+      "code": "0",
+      "name": "Ground Floor",
+      "active": true
+    },
+    {
       "code": "1",
+      "name": "1 Floor",
       "active": true
     },
     {
-      "name": "2",
       "code": "2",
+      "name": "2 Floor",
       "active": true
     },
     {
-      "name": "3",
       "code": "3",
+      "name": "3 Floor",
       "active": true
     },
     {
-      "name": "4",
       "code": "4",
+      "name": "4 Floor",
       "active": true
     },
     {
-      "name": "4+",
-      "code": "4_PLUS",
+      "code": "4+",
+      "name": "4 Plus",
       "active": true
     }
   ]
