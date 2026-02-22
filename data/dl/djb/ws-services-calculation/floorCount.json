@@ -1,0 +1,31 @@
+{
+  "tenantId": "dl",
+  "moduleName": "ws-services-calculation",
+  "floorCount": [
+    {
+      "name": "1",
+      "code": "1",
+      "active": true
+    },
+    {
+      "name": "2",
+      "code": "2",
+      "active": true
+    },
+    {
+      "name": "3",
+      "code": "3",
+      "active": true
+    },
+    {
+      "name": "4",
+      "code": "4",
+      "active": true
+    },
+    {
+      "name": "4+",
+      "code": "4_PLUS",
+      "active": true
+    }
+  ]
+}
