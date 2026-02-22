@@ -1,7 +1,7 @@
 {
   "tenantId": "dl.djb",
   "moduleName": "ws-services-calculation",
-  "userTypeV2": [
+  "floorCount": [
     {
       "code": "0",
       "name": "Ground Floor",
@@ -28,8 +28,8 @@
       "active": true
     },
     {
-      "code": "5",
-      "name": "5 Floor",
+      "code": "4+",
+      "name": "4 Plus",
       "active": true
     }
   ]
