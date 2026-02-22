@@ -1,0 +1,36 @@
+{
+  "tenantId": "dl.djb",
+  "moduleName": "ws-services-calculation",
+  "userTypeV2": [
+    {
+      "code": "0",
+      "name": "Ground Floor",
+      "active": true
+    },
+    {
+      "code": "1",
+      "name": "1 Floor",
+      "active": true
+    },
+    {
+      "code": "2",
+      "name": "2 Floor",
+      "active": true
+    },
+    {
+      "code": "3",
+      "name": "3 Floor",
+      "active": true
+    },
+    {
+      "code": "4",
+      "name": "4 Floor",
+      "active": true
+    },
+    {
+      "code": "5",
+      "name": "5 Floor",
+      "active": true
+    }
+  ]
+}
