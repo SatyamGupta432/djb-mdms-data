@@ -260,6 +260,17 @@
           "code": "dl.djb"
         }
       ]
+    },
+    {
+      "module": "Ekyc",
+      "code": "EKYC",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "dl.djb"
+        }
+      ]
     }
   ]
 }
