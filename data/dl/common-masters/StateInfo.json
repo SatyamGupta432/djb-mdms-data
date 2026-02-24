@@ -121,6 +121,9 @@
         {
           "label": "rainmaker-wt",
           "value": "rainmaker-wt"
+        },{
+          "label" : "rainmaker-ekyc",
+          "value" : "rainmaker-ekyc"
         }
       ]
     }
