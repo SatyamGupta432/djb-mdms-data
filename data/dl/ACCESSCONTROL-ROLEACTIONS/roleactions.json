@@ -31357,6 +31357,18 @@
       "actionid": 2066,
       "actioncode": "",
       "tenantId": "dl"
+    },
+    {
+      "rolecode": "VENDOR",
+      "actionid": 2065,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2065,
+      "actioncode": "",
+      "tenantId": "dl"
     }
   ]
 }
