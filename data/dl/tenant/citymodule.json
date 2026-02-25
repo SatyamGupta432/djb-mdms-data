@@ -271,6 +271,29 @@
           "code": "dl.djb"
         }
       ]
+    },
+    {
+      "module": "FSM",
+      "code": "FSM",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "dl.djb"
+        }
+      ]
     }
+    {
+      "module": "VENDOR",
+      "code": "VENDOR",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "dl.djb"
+        }
+      ]
+    }
+    
   ]
 }
