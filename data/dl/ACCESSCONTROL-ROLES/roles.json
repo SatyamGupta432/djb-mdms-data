@@ -311,6 +311,26 @@
       "code": "PT_CEMP",
       "name": "Property Service Employee",
       "description": "Property Service Employee"
+    },
+    {
+      "code": "Inventory_Approver",
+      "name": "Inventory Approver",
+      "description": "Inventory Approver"
+    },
+     {
+      "code": "It_Dept",
+     "name": "It dept",
+      "description": "It dept"
+    },
+    {
+      "code": "INV_DEPT_ADMIN",
+      "name": "INV_DEPT_ADMIN",
+      "description": "DEPARTMENT INVENTORY APPRAOVER"
+    },
+     {
+      "code": "INV_IT_DEPT_ADMIN",
+       "name": "INV_IT_DEPT_ADMIN",
+      "description": "IT DEPARTMENT APPROVER"
     }
   ]
 }
