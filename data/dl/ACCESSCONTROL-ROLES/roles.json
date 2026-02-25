@@ -327,10 +327,15 @@
       "name": "INV_DEPT_ADMIN",
       "description": "DEPARTMENT INVENTORY APPRAOVER"
     },
-     {
+    {
       "code": "INV_IT_DEPT_ADMIN",
        "name": "INV_IT_DEPT_ADMIN",
       "description": "IT DEPARTMENT APPROVER"
+    },
+    {
+      "code": "VENDOR",
+       "name": "Vendor",
+      "description": "Vendor Management"
     }
   ]
 }
