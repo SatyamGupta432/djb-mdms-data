@@ -336,6 +336,11 @@
       "code": "VENDOR",
        "name": "Vendor",
       "description": "Vendor Management"
+    },
+    {
+      "code": "FSM_DSO",
+      "name": "FSM Desluding Operator",
+      "description": "FSM Desluding Operator"
     }
   ]
 }
